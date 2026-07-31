@@ -1,20 +1,93 @@
-## Hi there 👋
+<div align="center">
 
-<# 💫 About Me:
-I am a motivated and enthusiastic student with a strong interest in computer applications and emerging technologies. I enjoy learning new concepts and applying them practically through projects and hands-on work. My academic journey has helped me build a solid foundation in programming, web development, and problem-solving skills.<br><br>I have experience working with technologies such as HTML, CSS, JavaScript, PHP, MySQL, and basic concepts of cloud computing and machine learning. I am particularly interested in developing user-friendly applications and finding technical solutions to real-world problems. I enjoy working both independently and as part of a team, and I am always open to learning from new challenges.<br><br>I consider myself a responsible, self-disciplined, and adaptable individual with good communication skills. My goal is to continuously improve my technical knowledge and grow as a professional in the IT industry while contributing positively to any organization I work with.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:14b8a6&height=220&section=header&text=Medabalimi%20Saikoti&fontSize=44&fontColor=f8fafc&fontAlignY=38&desc=Building%20useful%20things%20with%20curiosity%20and%20code&descAlignY=58&descSize=16" width="100%" alt="Medabalimi Saikoti profile banner" />
 
+<a href="https://github.com/saikotimedabalimi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=520&lines=Computer+Applications+Student;Full-stack+web+developer;Always+learning%2C+always+shipping" alt="Typing introduction" /></a>
 
-## 🌐 Socials:
- [![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/medabalimim_madmax](https://www.instagram.com/medabalimi_madmax/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/medabalimi saikoti](https://in.linkedin.com/in/medabalimi-saikoti-0310b3322))  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikotiarujun@gmail.com) 
+<p>
+  <a href="https://www.linkedin.com/in/medabalimi-saikoti-0310b3322"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
+  <a href="mailto:saikotiarujun@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email" /></a>
+  <a href="https://www.instagram.com/medabalimi_madmax/"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=fb7185" alt="Instagram" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saikotimedabalimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saikotimedabalimi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saikotimedabalimi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=saikotimedabalimi&icon=0&color=0)](https://visitcount.itsvg.in)
+<table align="center">
+<tr>
+<td width="52%" valign="top">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+I am a motivated computer applications student who enjoys turning ideas into practical, user-friendly software. My work sits at the intersection of **web development**, **cloud technologies**, and **problem solving**.
+
+I enjoy learning by building, collaborating with others, and improving one thoughtful detail at a time. I am currently focused on growing as a full-stack developer and contributing to projects that solve real problems.
+
+</td>
+<td width="48%" valign="top">
+
+## Currently
+
+```text
+Learning     Modern web development
+Exploring    Cloud and machine learning
+Building     Practical, accessible apps
+Open to      Collaboration and new ideas
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## Toolkit
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,cpp,python,mysql,flask,aws,gcp,git,github&perline=8" alt="Technology skills" />
+
+</div>
+
+## What I bring
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>01 - Build</h3>
+Create clean, responsive interfaces with a strong focus on usability.
+</td>
+<td width="33%" align="center">
+<h3>02 - Solve</h3>
+Break complex problems into clear, maintainable solutions.
+</td>
+<td width="33%" align="center">
+<h3>03 - Grow</h3>
+Stay curious, learn quickly, and keep improving through practice.
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=saikotimedabalimi&show_icons=true&hide_border=true&title_color=14b8a6&icon_color=38bdf8&text_color=cbd5e1&bg_color=0f172a" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikotimedabalimi&layout=compact&hide_border=true&title_color=14b8a6&text_color=cbd5e1&bg_color=0f172a" height="165" alt="Top programming languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=saikotimedabalimi&hide_border=true&background=0f172a&ring=14b8a6&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc&dates=94a3b8" width="70%" alt="GitHub contribution streak" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=saikotimedabalimi&label=PROFILE%20VIEWS&color=14b8a6&style=flat-square" alt="Profile views" />
+
+</div>
+
+<div align="center">
+
+### Let's build something meaningful.
+
+<a href="mailto:saikotiarujun@gmail.com">Get in touch -&gt;</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:164e63,100:0f172a&height=100&section=footer" width="100%" alt="Profile footer" />
