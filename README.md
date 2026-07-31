@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,75:312e81,100:00f5d4&height=235&section=header&text=MEDABALIMI%20SAIKOTI&fontSize=42&fontColor=f8fafc&fontAlignY=36&desc=FULL-STACK%20BUILDER%20%2F%2F%20SYSTEM%20EXPLORER&descAlignY=57&descSize=15&descColor=00f5d4" width="100%" alt="Cyber style profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,75:312e81,100:00f5d4&height=235&section=header&text=MEDABALIMI%20SAIKOTI&fontSize=42&fontColor=f8fafc&fontAlignY=36&desc=FULL-STACK%20BUILDER%20%2F%2F%20SYSTEM%20EXPLORER&descAlignY=57&descSize=15&descColor=00f5d4&animation=twinkling" width="100%" alt="Animated cyber style profile header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=620&lines=%3E+booting+developer_profile...;%3E+shipping+useful+web+experiences;%3E+exploring+AI+%2B+cloud+systems;%3E+status%3A+always+building" alt="Terminal style introduction" />
 
@@ -49,11 +49,52 @@ ACCESS: public
 
 <div align="center">
 
+## // SELECT YOUR MODE
+
+<a href="https://github.com/saikotimedabalimi?tab=repositories"><img src="https://img.shields.io/badge/%5B01%5D%20BUILD%20MODE-ONLINE-00f5d4?style=for-the-badge&labelColor=050816" alt="Build mode" /></a>
+<a href="https://github.com/saikotimedabalimi?tab=projects"><img src="https://img.shields.io/badge/%5B02%5D%20EXPLORE%20MODE-READY-ff2bd6?style=for-the-badge&labelColor=050816" alt="Explore mode" /></a>
+<a href="mailto:saikotiarujun@gmail.com"><img src="https://img.shields.io/badge/%5B03%5D%20CO--OP%20MODE-OPEN-7c3aed?style=for-the-badge&labelColor=050816" alt="Co-op mode" /></a>
+
+</div>
+
+<div align="center">
+
 ## // TECH STACK
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,cpp,python,mysql,flask,aws,gcp,git,github&perline=8&theme=dark" alt="Technology stack" />
 
 </div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+## // PLAYER LOADOUT
+
+```text
+CLASS       FULL-STACK BUILDER
+PRIMARY     JavaScript / React / Node
+SECONDARY   PHP / Java / Python
+SPECIAL     Cloud + AI exploration
+PLAYSTYLE   Curious / collaborative
+```
+
+</td>
+<td width="50%" valign="top">
+
+## // XP PROGRESS
+
+`WEB SYSTEMS`  [################..]  80%
+
+`CLOUD TOOLS`  [############......]  60%
+
+`AI PROJECTS`  [##########........]  50%
+
+`UI CRAFT`     [##############....]  70%
+
+</td>
+</tr>
+</table>
 
 ## // LIVE REPOSITORY DASHBOARD
 
@@ -89,6 +130,20 @@ ACCESS: public
 <div align="center">
 
 <a href="https://github.com/saikotimedabalimi?tab=repositories"><img src="https://img.shields.io/badge/OPEN_FULL_REPOSITORY_INDEX-00f5d4?style=for-the-badge&labelColor=050816&logo=github&logoColor=00f5d4" alt="Open full repository index" /></a>
+
+</div>
+
+<div align="center">
+
+## // ACTIVE QUESTS
+
+<img src="https://img.shields.io/badge/QUEST_01-Ship%20useful%20interfaces-00f5d4?style=flat-square&labelColor=050816" alt="Ship useful interfaces quest" />
+<img src="https://img.shields.io/badge/QUEST_02-Explore%20AI%20workflows-ff2bd6?style=flat-square&labelColor=050816" alt="Explore AI workflows quest" />
+<img src="https://img.shields.io/badge/QUEST_03-Level%20up%20cloud%20skills-7c3aed?style=flat-square&labelColor=050816" alt="Level up cloud skills quest" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=saikotimedabalimi&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="92%" alt="GitHub achievement trophies" />
 
 </div>
 
