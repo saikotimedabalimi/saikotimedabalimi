@@ -1,37 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:14b8a6&height=220&section=header&text=Medabalimi%20Saikoti&fontSize=44&fontColor=f8fafc&fontAlignY=38&desc=Building%20useful%20things%20with%20curiosity%20and%20code&descAlignY=58&descSize=16" width="100%" alt="Medabalimi Saikoti profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111827,75:312e81,100:00f5d4&height=235&section=header&text=MEDABALIMI%20SAIKOTI&fontSize=42&fontColor=f8fafc&fontAlignY=36&desc=FULL-STACK%20BUILDER%20%2F%2F%20SYSTEM%20EXPLORER&descAlignY=57&descSize=15&descColor=00f5d4" width="100%" alt="Cyber style profile header" />
 
-<a href="https://github.com/saikotimedabalimi"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=520&lines=Computer+Applications+Student;Full-stack+web+developer;Always+learning%2C+always+shipping" alt="Typing introduction" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=620&lines=%3E+booting+developer_profile...;%3E+shipping+useful+web+experiences;%3E+exploring+AI+%2B+cloud+systems;%3E+status%3A+always+building" alt="Terminal style introduction" />
 
 <p>
-  <a href="https://www.linkedin.com/in/medabalimi-saikoti-0310b3322"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
-  <a href="mailto:saikotiarujun@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email" /></a>
-  <a href="https://www.instagram.com/medabalimi_madmax/"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=fb7185" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00f5d4?style=for-the-badge&labelColor=050816" alt="Online status" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL--STACK-ff2bd6?style=for-the-badge&labelColor=050816" alt="Full stack focus" />
+  <img src="https://img.shields.io/badge/MODE-LEARNING-7c3aed?style=for-the-badge&labelColor=050816" alt="Learning mode" />
+</p>
+
+<p>
+  <a href="https://github.com/saikotimedabalimi"><img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00f5d4" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/medabalimi-saikoti-0310b3322"><img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
+  <a href="mailto:saikotiarujun@gmail.com"><img src="https://img.shields.io/badge/Contact-050816?style=for-the-badge&logo=gmail&logoColor=ff2bd6" alt="Contact" /></a>
 </p>
 
 </div>
 
 <table align="center">
 <tr>
-<td width="52%" valign="top">
+<td width="58%" valign="top">
 
-## About me
+## // PROFILE.README
 
-I am a motivated computer applications student who enjoys turning ideas into practical, user-friendly software. My work sits at the intersection of **web development**, **cloud technologies**, and **problem solving**.
+I am a computer applications student who likes turning ideas into practical, user-friendly software. I work across **web development**, **cloud technologies**, and **problem solving**, with a growing interest in AI-powered products.
 
-I enjoy learning by building, collaborating with others, and improving one thoughtful detail at a time. I am currently focused on growing as a full-stack developer and contributing to projects that solve real problems.
+My approach is simple: learn the system, build the smallest useful version, then keep improving it. I enjoy collaboration, clear interfaces, and projects that solve real problems.
 
 </td>
-<td width="48%" valign="top">
+<td width="42%" valign="top">
 
-## Currently
+## // LIVE STATUS
 
 ```text
-Learning     Modern web development
-Exploring    Cloud and machine learning
-Building     Practical, accessible apps
-Open to      Collaboration and new ideas
+[+] learning       modern web
+[+] exploring      AI + cloud
+[+] building       useful apps
+[+] accepting      new ideas
+
+USER: saikotimedabalimi
+ACCESS: public
 ```
 
 </td>
@@ -40,54 +49,76 @@ Open to      Collaboration and new ideas
 
 <div align="center">
 
-## Toolkit
+## // TECH STACK
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,cpp,python,mysql,flask,aws,gcp,git,github&perline=8" alt="Technology skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,java,cpp,python,mysql,flask,aws,gcp,git,github&perline=8&theme=dark" alt="Technology stack" />
 
 </div>
 
-## What I bring
+## // LIVE REPOSITORY DASHBOARD
+
+> Auto-generated cards below are connected directly to GitHub. Stars, languages, descriptions, and repository metadata update from the live repositories.
 
 <table>
 <tr>
-<td width="33%" align="center">
-<h3>01 - Build</h3>
-Create clean, responsive interfaces with a strong focus on usability.
+<td width="50%" valign="top">
+
+<a href="https://github.com/saikotimedabalimi/Gmail-ai-auto-responder-n8n"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikotimedabalimi&repo=Gmail-ai-auto-responder-n8n&theme=radical&hide_border=true&bg_color=050816&title_color=00f5d4&icon_color=ff2bd6&text_color=cbd5e1" width="100%" alt="Gmail AI auto responder repository" /></a>
+
 </td>
-<td width="33%" align="center">
-<h3>02 - Solve</h3>
-Break complex problems into clear, maintainable solutions.
+<td width="50%" valign="top">
+
+<a href="https://github.com/saikotimedabalimi/AI-Personalized-Nutrition-Meal-Planning-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikotimedabalimi&repo=AI-Personalized-Nutrition-Meal-Planning-Platform&theme=radical&hide_border=true&bg_color=050816&title_color=00f5d4&icon_color=ff2bd6&text_color=cbd5e1" width="100%" alt="AI nutrition platform repository" /></a>
+
 </td>
-<td width="33%" align="center">
-<h3>03 - Grow</h3>
-Stay curious, learn quickly, and keep improving through practice.
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/saikotimedabalimi/cisco-packet-tracer-pkt-files"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikotimedabalimi&repo=cisco-packet-tracer-pkt-files&theme=radical&hide_border=true&bg_color=050816&title_color=00f5d4&icon_color=ff2bd6&text_color=cbd5e1" width="100%" alt="Cisco Packet Tracer repository" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/saikotimedabalimi/plant-disease-dectection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saikotimedabalimi&repo=plant-disease-dectection&theme=radical&hide_border=true&bg_color=050816&title_color=00f5d4&icon_color=ff2bd6&text_color=cbd5e1" width="100%" alt="Plant disease detection repository" /></a>
+
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-## Activity
+<a href="https://github.com/saikotimedabalimi?tab=repositories"><img src="https://img.shields.io/badge/OPEN_FULL_REPOSITORY_INDEX-00f5d4?style=for-the-badge&labelColor=050816&logo=github&logoColor=00f5d4" alt="Open full repository index" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saikotimedabalimi&show_icons=true&hide_border=true&title_color=14b8a6&icon_color=38bdf8&text_color=cbd5e1&bg_color=0f172a" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikotimedabalimi&layout=compact&hide_border=true&title_color=14b8a6&text_color=cbd5e1&bg_color=0f172a" height="165" alt="Top programming languages" />
+</div>
+
+## // GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saikotimedabalimi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=050816&title_color=00f5d4&icon_color=ff2bd6&text_color=cbd5e1" height="175" alt="Live GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikotimedabalimi&layout=compact&hide_border=true&langs_count=8&bg_color=050816&title_color=00f5d4&text_color=cbd5e1" height="175" alt="Live language statistics" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=saikotimedabalimi&hide_border=true&background=0f172a&ring=14b8a6&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc&dates=94a3b8" width="70%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=saikotimedabalimi&hide_border=true&background=050816&ring=00f5d4&fire=ff2bd6&currStreakLabel=00f5d4&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc&dates=64748b" width="70%" alt="Live GitHub contribution streak" />
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=saikotimedabalimi&label=PROFILE%20VIEWS&color=14b8a6&style=flat-square" alt="Profile views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikotimedabalimi&bg_color=050816&color=00f5d4&line=ff2bd6&point=f8fafc&area=true&hide_border=true" width="96%" alt="Live GitHub contribution activity graph" />
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=saikotimedabalimi&label=PROFILE%20VIEWS&color=00f5d4&style=flat-square" alt="Profile views" />
 
 </div>
 
 <div align="center">
 
-### Let's build something meaningful.
+### [ SYSTEM MESSAGE ] Build something meaningful.
 
-<a href="mailto:saikotiarujun@gmail.com">Get in touch -&gt;</a>
+<a href="mailto:saikotiarujun@gmail.com">OPEN_COMMUNICATION_CHANNEL -&gt;</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:164e63,100:0f172a&height=100&section=footer" width="100%" alt="Profile footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,35:312e81,70:111827,100:050816&height=110&section=footer" width="100%" alt="Cyber style profile footer" />
