@@ -1,47 +1,48 @@
-# 👋 Hi, I'm Medabalimi Saikoti
 
-::: {align="center"}
-![Typing
-SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%7C+Cloud+%7C+Automation;Always+Learning+Always+Building)
+# <div align="center">⚡ MEDABALIMI SAIKOTI ⚡</div>
 
-![Profile
-Views](https://komarev.com/ghpvc/?username=saikotimedabalimi&label=Profile%20Views&color=00f5d4)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-saikotimedabalimi-black?style=for-the-badge&logo=github)](https://github.com/saikotimedabalimi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Medabalimi%20Saikoti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/medabalimi-saikoti-0310b3322)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:saikotiarujun@gmail.com)
-:::
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=900&lines=Booting+Developer+Profile...;Full-Stack+Developer;AI+%7C+Cloud+%7C+Automation;Always+Building+Something+Useful)
 
-------------------------------------------------------------------------
+![Profile Views](https://komarev.com/ghpvc/?username=saikotimedabalimi&label=PROFILE+VIEWS&color=00f5d4)
 
-# 💻 Developer Console
+</div>
 
-``` text
-STATUS      : ONLINE
-ROLE        : Full-Stack Developer
-FOCUS       : AI • Cloud • Automation
-LANGUAGES   : Python • JavaScript • Java • PHP
-MISSION     : Build impactful software
+---
+
+# 🖥 SYSTEM CONSOLE
+
+```text
+STATUS        : ONLINE
+MODE          : BUILD
+ROLE          : FULL STACK DEVELOPER
+LOCATION      : INDIA
+CURRENT FOCUS : AI • WEB • CLOUD
+MISSION       : Build software that solves real problems
 ```
 
-------------------------------------------------------------------------
+---
 
-# 🚀 About Me
+# 🤖 AI ASSISTANT
 
-I am an MCA student passionate about building practical software using
-modern web technologies, AI, automation, and cloud platforms.
+| Module | Status |
+|--------|--------|
+| Resume Analyzer | 🟢 Online |
+| Job Automation | 🟢 Online |
+| FastAPI Backend | 🟢 Online |
+| Cloud Learning | 🟡 In Progress |
+| Open Source | 🟢 Active |
 
-### Current Focus
+---
 
--   AI-powered applications
--   FastAPI & Python
--   React & Node.js
--   Cloud Computing (AWS/GCP)
--   Automation & APIs
+# 🚀 ABOUT ME
 
-------------------------------------------------------------------------
+I am an MCA student passionate about Full-Stack Development, Artificial Intelligence, Automation, and Cloud Computing. I enjoy transforming ideas into practical applications and continuously improving my technical skills.
 
-# 🛠 Tech Stack
+---
+
+# 🛠 TECH STACK
 
 ## Languages
 
@@ -49,7 +50,7 @@ Python • Java • JavaScript • TypeScript • PHP • C++
 
 ## Frontend
 
-HTML5 • CSS3 • React • Bootstrap
+HTML • CSS • React • Bootstrap
 
 ## Backend
 
@@ -65,91 +66,167 @@ AWS • Google Cloud
 
 ## Tools
 
-Git • GitHub • VS Code • Postman • Docker
+Git • GitHub • VS Code • Docker • Postman
 
-------------------------------------------------------------------------
+---
 
-# 📂 Featured Projects
+# 📊 LIVE DASHBOARD
+
+```text
+Repositories      ████████████████
+
+Projects          ███████████████
+
+Python            ███████████████
+
+JavaScript        ████████████
+
+Cloud             ██████████
+
+AI                █████████
+
+System Design     ███████
+```
+
+---
+
+# ⚡ FEATURED PROJECTS
 
 ## 🤖 AI Job Automation Platform
 
--   Multi-platform job search
--   Resume analysis
--   AI recommendations
--   Excel export
--   FastAPI backend
+- Multi-platform job search
+- Resume analysis
+- AI recommendations
+- FastAPI backend
+- Database integration
 
-------------------------------------------------------------------------
+---
 
 ## 📧 Gmail AI Auto Responder
 
--   Gmail automation
--   AI generated replies
--   n8n workflow
--   OpenRouter integration
+- Gmail automation
+- AI generated replies
+- n8n workflow
+- OpenRouter
 
-------------------------------------------------------------------------
+---
 
 ## 🥗 AI Nutrition Planner
 
--   Personalized meal plans
--   AI recommendations
--   Dashboard
--   Nutrition tracking
+- Personalized recommendations
+- AI meal planning
+- Dashboard
 
-------------------------------------------------------------------------
+---
 
 ## 🌱 Plant Disease Detection
 
--   Deep Learning
--   CNN
--   Image Classification
+- CNN
+- Deep Learning
+- Image Classification
 
-------------------------------------------------------------------------
+---
 
-# 📈 GitHub Stats
+# 📈 GITHUB ANALYTICS
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=saikotimedabalimi&show_icons=true&theme=radical)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikotimedabalimi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikotimedabalimi&layout=compact&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com?user=saikotimedabalimi&theme=radical)
 
-------------------------------------------------------------------------
+---
 
-# 📊 Contribution Graph
+# 📉 CONTRIBUTION GRAPH
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=saikotimedabalimi&theme=react-dark)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=saikotimedabalimi&theme=react-dark)
 
-------------------------------------------------------------------------
+---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
-> Enable GitHub Actions and replace with your generated snake SVG.
+Add GitHub Action:
 
-``` text
-github-contribution-grid-snake.svg
+https://github.com/Platane/snk
+
+Then embed:
+
+```md
+![](https://raw.githubusercontent.com/saikotimedabalimi/saikotimedabalimi/output/github-contribution-grid-snake-dark.svg)
 ```
 
-------------------------------------------------------------------------
+---
 
-# 🎯 Current Goals
+# 🏆 ACHIEVEMENTS
 
--   Learn advanced system design
--   Build scalable AI products
--   Contribute to open source
--   Master cloud deployment
+- ✅ Full Stack Projects
+- ✅ AI Applications
+- ✅ Cloud Learning
+- ✅ Automation Workflows
+- ✅ Problem Solving
 
-------------------------------------------------------------------------
+---
 
-# 📫 Connect
+# 🎯 CURRENT ROADMAP
 
--   GitHub: https://github.com/saikotimedabalimi
--   LinkedIn: https://www.linkedin.com/in/medabalimi-saikoti-0310b3322
--   Email: saikotiarujun@gmail.com
+```text
+2026 ██████████  AI Projects
+2027 ████████    Cloud & DevOps
+2028 ██████      System Design
+2029 █████       Senior Software Engineer
+```
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
-### ⭐ "Build something meaningful."
-:::
+# 📡 LIVE SERVICES
+
+| Service | Status |
+|---------|--------|
+| Portfolio | 🟢 |
+| Backend API | 🟢 |
+| Database | 🟢 |
+| GitHub | 🟢 |
+| AI Models | 🟢 |
+
+---
+
+# 💻 TERMINAL
+
+```bash
+$ whoami
+Medabalimi Saikoti
+
+$ role
+Full Stack Developer
+
+$ current
+Building AI-powered applications
+
+$ skills
+Python
+React
+FastAPI
+Node.js
+AWS
+
+$ future
+Software Engineer
+```
+
+---
+
+# 📬 CONNECT
+
+- GitHub: https://github.com/saikotimedabalimi
+- LinkedIn: https://www.linkedin.com/in/medabalimi-saikoti-0310b3322
+- Email: saikotiarujun@gmail.com
+
+---
+
+<div align="center">
+
+## ⭐ Build Something Meaningful
+
+*"Code. Learn. Improve. Repeat."*
+
+</div>
