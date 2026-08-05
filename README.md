@@ -172,45 +172,78 @@ PLAYSTYLE   Curious / collaborative
 
 ## // LIVE TRANSACTIONS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=500&color=00F5D4&center=true&vCenter=true&width=760&lines=%3E+rendering+real-time+UI%2FUX+flow...;%3E+animating+transaction+signals...;%3E+syncing+design+and+interaction...;%3E+status%3A+immersive+experience" alt="Live transactions animation" />
+<p>
+  <img src="https://img.shields.io/badge/WEB_UI-PORTAL-00f5d4?style=for-the-badge&labelColor=050816" alt="Web UI Portal" />
+  <img src="https://img.shields.io/badge/UX_PIPELINE-LIVE-ff2bd6?style=for-the-badge&labelColor=050816" alt="UX Pipeline Live" />
+  <img src="https://img.shields.io/badge/DESIGN_SYSTEM-MODERN-7c3aed?style=for-the-badge&labelColor=050816" alt="Modern design system" />
+  <img src="https://img.shields.io/badge/INTERACTION-SEAMLESS-00bfff?style=for-the-badge&labelColor=050816" alt="Seamless interaction" />
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=500&color=00F5D4&center=true&vCenter=true&width=760&lines=%3E+rendering+real-time+UI%2FUX+flow...;%3E+animating+transaction+signals...;%3E+syncing+design+and+interaction...;%3E+status%3A+immersive+experience" alt="Live transactions animation" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/TRANSACTION-ANIMATED-00f5d4?style=for-the-badge&labelColor=050816" alt="Animated transaction badge" />
   <img src="https://img.shields.io/badge/UX-DESIGN-ADVANCED-ff2bd6?style=for-the-badge&labelColor=050816" alt="Advanced UX badge" />
   <img src="https://img.shields.io/badge/ANIMATION-LIVELY-7c3aed?style=for-the-badge&labelColor=050816" alt="Lively animation badge" />
+  <img src="https://img.shields.io/badge/FEEDBACK-REALTIME-00ff98?style=for-the-badge&labelColor=050816" alt="Realtime feedback badge" />
 </p>
+
+<details>
+<summary><strong>Live UI/UX Dashboard</strong></summary>
+
+- Real-time flow metrics
+- Responsive interaction layer
+- Animated transitions & polished visuals
+- Web-like interface feel for the repository experience
+
+</details>
 
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="top">
 
+### TRANSACTION PANEL
+
 ```text
-[01] UI EVENTS     active
-[02] DATA STREAM   flowing
-[03] DESIGN MODE   responsive
+[01] UI EVENTS          active
+[02] DATA STREAM        flowing
+[03] DESIGN MODE        responsive
+[04] MOTION             fluent
 ```
 
 </td>
 <td width="33%" valign="top">
 
+### UX METRICS
+
 ```text
-[04] MOTION       fluent
-[05] COLORS       vivid
-[06] LAYOUT       adaptive
+[05] COLORS            vivid
+[06] LAYOUT            adaptive
+[07] ACCESSIBILITY     inclusive
+[08] INTERACTION       seamless
 ```
 
 </td>
 <td width="33%" valign="top">
 
-```text
-[07] ACCESSIBILITY  inclusive
-[08] INTERACTION    seamless
-[09] TRANSITION     dynamic
-```
+### SYSTEM FLOW
+
+`RESPONSE`   [############....]  80%
+`ENGAGE`     [###########.....]  75%
+`FLOW`       [#############...]  82%
+`POLISH`     [############....]  78%
 
 </td>
 </tr>
 </table>
+
+<p>
+  <img src="https://img.shields.io/badge/WEB-INTERFACE-00f5d4?style=for-the-badge&labelColor=050816" alt="Web interface badge" />
+  <img src="https://img.shields.io/badge/STYLE-MODERN-ff2bd6?style=for-the-badge&labelColor=050816" alt="Modern style badge" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-WEBLIKE-7c3aed?style=for-the-badge&labelColor=050816" alt="Weblike experience badge" />
+</p>
 
 </div>
 
